@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\podus\source\repos\winraronminimalkah\winraronminimalkah\main.cpp(65): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  WinRarOnMinimalkah.vcxproj -> C:\Users\podus\source\repos\WinRarOnMinimalkah\Debug\WinRarOnMinimalkah.exe
